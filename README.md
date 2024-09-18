@@ -1,6 +1,10 @@
 # GitHubFoundations
 Exam-ready Study Guide for GitHub Foundations Certification.
 
+# Softwares
+- WSL
+
+
 # Video Content
 - [Introduction to Git](https://www.youtube.com/watch?v=9uGS1ak_FGg)
 # GitHub Foundations Learning Path
