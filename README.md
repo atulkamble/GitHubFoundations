@@ -1,6 +1,8 @@
 # GitHubFoundations
 Exam-ready Study Guide for GitHub Foundations Certification.
 
+# Video Content
+- [Introduction to Git](https://www.youtube.com/watch?v=9uGS1ak_FGg)
 # GitHub Foundations Learning Path
 # [MS Learn Learning Path](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
 # [LinkedIn Learning Path](https://www.linkedin.com/learning/paths/prepare-for-the-github-foundations-certification)
