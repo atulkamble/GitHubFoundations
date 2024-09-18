@@ -2,8 +2,8 @@
 Exam-ready Study Guide for GitHub Foundations Certification.
 
 # GitHub Foundations Learning Path
-[MS Learn Learning Path](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
-[LinkedIn Learning Path](https://www.linkedin.com/learning/paths/prepare-for-the-github-foundations-certification)
+# [MS Learn Learning Path](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
+# [LinkedIn Learning Path](https://www.linkedin.com/learning/paths/prepare-for-the-github-foundations-certification)
 - concise and beginner-friendly journey designed to introduce you to the fundamental concepts and products of GitHub. 
 - discover the benefits of using GitHub as a collaborative platform and explore its core features, such as repository management, commits, branches, and merging. 
 - modules and hands-on exercises, you'll gain a solid understanding of GitHub's essential tools and be well-equipped to start contributing to projects and collaborating effectively within GitHub.
